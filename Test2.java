@@ -8,7 +8,7 @@
 public class Test2
 {
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
-    private int x;
+    private int x,z;
 
     /**
      * Konstruktor für Objekte der Klasse Test2
@@ -17,6 +17,7 @@ public class Test2
     {
         // Instanzvariable initialisieren
         x = 0;
+        z=0;
     }
 
     /**
