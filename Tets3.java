@@ -1,24 +1,22 @@
 
 /**
- * Beschreiben Sie hier die Klasse Test2.
+ * Beschreiben Sie hier die Klasse Tets3.
  * 
  * @author (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
-public class Test2
+public class Tets3
 {
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
-    private int x,z,b;
+    private int x;
 
     /**
-     * Konstruktor für Objekte der Klasse Test2
+     * Konstruktor für Objekte der Klasse Tets3
      */
-    public Test2()
+    public Tets3()
     {
         // Instanzvariable initialisieren
         x = 0;
-        z=0;
-        b=0;
     }
 
     /**
